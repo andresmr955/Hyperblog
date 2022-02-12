@@ -1,8 +1,15 @@
 body
 {
+<<<<<<< HEAD
+        background: #1e1f24;
+        color: #333;
+        text-align: center;
+        font-family: Arial;
+=======
         color: #333;
         text-align: center;
         font-family: 'Courier;
+>>>>>>> eaa87908dcda891b6fdd6eb60454914c3a347932
         font-size: 16px;
         margin: 0;
         padding: 0;
@@ -11,13 +18,21 @@ body
 #cabecera
 {
     background: #33A;
-    box-shadow: 0px 2px 20px 0px rgb(31, 21, 21);
+    box-shadow: 0px 2px 20px 0px rgb31, 21, 21;
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
 
+<<<<<<< HEAD
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align:middle;
+}
+=======
+>>>>>>> eaa87908dcda891b6fdd6eb60454914c3a347932
 #cabecera #tagline
 {
     margin: 0 0 0 0;
@@ -28,12 +43,35 @@ body
 #container {
     width: 70%;
     padding: 0;
+<<<<<<< HEAD
+    text-align: left;
+=======
     text-align: center;
+>>>>>>> eaa87908dcda891b6fdd6eb60454914c3a347932
     border: 1px solid rgb(207, 17, 17);
     margin: 0 auto;
 
 }
 
+<<<<<<< HEAD
+#container h1
+{
+        font-size: 20px;
+}
+
+#post {
+    background: white;
+    padding: 1em;
+=======
 #post {
     font-size: 1em; 
+>>>>>>> eaa87908dcda891b6fdd6eb60454914c3a347932
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align:center;
+    padding: 0.5em;
 }
