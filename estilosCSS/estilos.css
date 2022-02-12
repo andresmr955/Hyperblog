@@ -18,7 +18,7 @@ body
 #cabecera
 {
     background: #33A;
-    box-shadow: 0px 2px 20px 0px rgb(31, 21, 21);
+    box-shadow: 0px 2px 20px 0px rgb31, 21, 21;
     color: white;
     font-weight: bold;
     margin: 0;
@@ -66,4 +66,12 @@ body
 #post {
     font-size: 1em; 
 >>>>>>> eaa87908dcda891b6fdd6eb60454914c3a347932
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align:center;
+    padding: 0.5em;
 }
